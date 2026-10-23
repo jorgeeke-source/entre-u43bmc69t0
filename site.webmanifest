@@ -1,0 +1,1 @@
+{ "name": "Entreinmuebles", "short_name": "Entreinmuebles", "icons": [{ "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }], "theme_color": "#12171D", "background_color": "#F5F3EF", "display": "browser" }
